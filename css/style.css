@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
+
 *{
     margin:0;
 }
@@ -74,7 +76,6 @@
 }
 
 .InnerGridWrapper{
-    background:red;
     grid-area:se; 
     display:grid;
     grid-template-rows: 1fr 1fr;
@@ -93,7 +94,7 @@
 }
 
 .h5{
-    font-family: sans-serif;
+    font-family: 'Hind', sans-serif;
     margin:3px;
     font-size:13px;
 }
